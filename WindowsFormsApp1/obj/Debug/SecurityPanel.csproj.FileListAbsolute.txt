@@ -1,0 +1,10 @@
+D:\uni\sem4\NET\SecurityPanel\WindowsFormsApp1\bin\Debug\SecurityPanel.exe.config
+D:\uni\sem4\NET\SecurityPanel\WindowsFormsApp1\bin\Debug\SecurityPanel.exe
+D:\uni\sem4\NET\SecurityPanel\WindowsFormsApp1\bin\Debug\SecurityPanel.pdb
+D:\uni\sem4\NET\SecurityPanel\WindowsFormsApp1\obj\Debug\SecurityPanel.csproj.AssemblyReference.cache
+D:\uni\sem4\NET\SecurityPanel\WindowsFormsApp1\obj\Debug\SecurityPanel.SecurityPanel.resources
+D:\uni\sem4\NET\SecurityPanel\WindowsFormsApp1\obj\Debug\SecurityPanel.Properties.Resources.resources
+D:\uni\sem4\NET\SecurityPanel\WindowsFormsApp1\obj\Debug\SecurityPanel.csproj.GenerateResource.cache
+D:\uni\sem4\NET\SecurityPanel\WindowsFormsApp1\obj\Debug\SecurityPanel.csproj.CoreCompileInputs.cache
+D:\uni\sem4\NET\SecurityPanel\WindowsFormsApp1\obj\Debug\SecurityPanel.exe
+D:\uni\sem4\NET\SecurityPanel\WindowsFormsApp1\obj\Debug\SecurityPanel.pdb
